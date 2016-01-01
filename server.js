@@ -7,4 +7,4 @@ app.use(express.static(__dirname + '/public'));
 
 http.listen(PORT, function () {
 	console.log('server started');
-});
+}); 
